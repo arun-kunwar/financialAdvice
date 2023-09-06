@@ -1,0 +1,26 @@
+.intro{
+    background-image: url(./images/intro.jpg);
+    background-size: cover;
+    position:relative ;
+    height: 535px;
+   background-repeat: no-repeat;
+   background-color: #cccc;
+   }
+h1{
+    padding-top: 10%;
+    text-align: center;
+    text-decoration: solid;
+    color: #241616;
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    }
+    p{
+        padding-left: 10%;
+        padding-top: 2%;
+            text-decoration: solid;
+            color: #1f0a0a;
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+
+    }
