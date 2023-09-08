@@ -1,42 +1,60 @@
-
-.flex{
-display: flex;
-flex-direction: row-reverse;
+.flex {
+    display: flex;
+    flex-direction: row-reverse;
 
 
 }
-.intro{ 
+
+.intro {
     background-image: url(./images/intro.jpg);
     background-size: cover;
-    position:relative;
+    position: relative;
     height: 600px;
     background-repeat: no-repeat;
     width: 80%;
-    flex-grow: 500px;
 
-    
- 
-   }
-h1{
-    padding-top: 10%;
-    padding-right: 200px;
-    text-align: center;
+
+
+
+}
+
+h1 {
+    bottom: 53%;
+    right: 730px;
+    position: absolute;
     text-decoration: solid;
-    color: #241616;
-    font-size:50px;
+    color: rgb(182, 182, 178);
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 
-    }
-    p{
-        padding-left: 10%;
-        padding-top: 2%;
-            text-decoration: solid;
-            color: #1f0a0a;
-            font-size: 30px;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        .box{
-            background-color: #0c4c7c;
-            height: 600px;
-            width: 42.80%;
-        }
+}
+
+p {
+    bottom: 40%;
+    right: 360px;
+    position: absolute;
+    text-decoration: solid;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    background-color: #0c4c7c;
+    height: 600px;
+    width: 42.80%;
+
+}
+
+.submit {
+    color: aliceblue;
+    background-color: #0c4c7c;
+    border-color: white;
+    border-radius: 1px;
+    bottom: 30%;
+    right: 75%;
+    position: absolute;
+    height: 40px;
+    width: 150px;
+
+}
