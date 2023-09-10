@@ -12,13 +12,9 @@
     height: 600px;
     background-repeat: no-repeat;
     width: 80%;
-
-
-
-
 }
 
-h1 {
+.h1 {
     bottom: 53%;
     right: 730px;
     position: absolute;
@@ -29,7 +25,7 @@ h1 {
 
 }
 
-p {
+.p {
     bottom: 40%;
     right: 360px;
     position: absolute;
@@ -56,5 +52,68 @@ p {
     position: absolute;
     height: 40px;
     width: 150px;
+
+}
+
+
+.h2 { position: relative;
+   margin-left: 550px;
+   margin-bottom: 50px;
+
+}
+
+.p2 {
+    position: relative;
+    text-align: center;
+    margin-left: 255px;
+  
+}
+
+.box1 {
+    position: absolute;
+    height: 2px;
+
+}
+.body{
+    display:flex;
+    flex-direction: column-reverse;
+}
+
+.imgbox1 {
+
+    margin-top: 40px;
+    margin-left: 300px;
+    height: 50px;
+
+}
+
+.box2 {
+    position: absolute;
+   top: 1070px;
+   left: 300px;
+}
+
+.imgbox2 {
+ 
+  
+  
+}
+
+.box3 {
+    position: absolute;
+}
+.imgbox3{
+    color: #0c4c7c;
+}
+
+.bxo4 {
+    position: absolute;
+    top: 1200pxgit;
+    
+}
+
+.imgbox4 {
+   
+    
 
 }

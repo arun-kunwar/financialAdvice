@@ -33,6 +33,7 @@ li a:hover{
 }
 
 .search{
+    padding: 2px;
     border:1px solid #ccc;
     width: 250px;
     height: 30px;
