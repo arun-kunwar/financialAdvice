@@ -23,7 +23,7 @@ function body() {
 
       <main className='body'>
         <h2 className='h2'>WHAT WE OFFER</h2>
-        <p className='p2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, et! Consequatur nemo ullam officiis <br />Lorem ipsum dolor sit amet consectetur adipisicing elit Beatae.  </p>
+        <p className='p2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, et! Consequatur nemo ullam officiis <br /> <p className='opp'>lorem sum dolor sit amet consectetur adipisicing elit Beatae .</p> </p>
         <div className='box1'>
           <img src={box1} alt="g " className='imgbox1'/>
 
