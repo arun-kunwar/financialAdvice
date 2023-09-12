@@ -22,31 +22,41 @@ function body() {
       </section>
 
       <main className='body'>
-        <h2 className='h2'>WHAT WE OFFER</h2>
+        <h3 className='h2'>WHAT WE OFFER</h3>
         <p className='p2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, et! Consequatur nemo ullam officiis <br /> <p className='opp'>lorem sum dolor sit amet consectetur adipisicing elit Beatae .</p> </p>
         <div className='box1'>
-          <img src={box1} alt="g " className='imgbox1'/>
+          <img src={box1}  className='imgbox1' />
+          <p className='divp1'>FINANCIAL PLANNING</p>
 
         </div>
         <div className='box2'>
-          <img src={box2} alt=""  className='imgbox2'/>
-         
+          <img src={box2} alt="" className='imgbox2' />
+          <p className='divp2'>MUTAL FUNDS</p>
+
         </div>
         <div className='box3'>
           <img src={box3} alt="" className='imgbox3' />
+          <p className='divp3'> SAVING & INVESMENT</p>
         </div>
         <div className='box4'>
-          <img src={box4} alt=""  className='imgbox4'/>
+          <img src={box4} alt="" className='imgbox4' />
+          <p className='divp4' >INDUSTRAIL INSURANCE </p>
         </div>
         <div className='box5'>
-          <img src={box5} alt=""  className='imgbox5'/>
-        </div>
-       
-        <div className='box6'>
-        
-         
+          <img src={box5} alt="" className='imgbox5' />
+          <p className='divp5'>SUPPORT</p>
         </div>
 
+        <div className='box6'>
+
+          <h5 className='h3'>INVESMENT PLANNING</h5>
+          <p className='p3'>Lorem ipsum dolor sit amet dbbf bfkd  <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   adipisicing elit. </p>
+          <input type="button" value="READ MORE" className="read" />
+
+        </div>
+        
 
       </main>
 
