@@ -30,6 +30,8 @@ function body() {
 
         </div>
         <div className='box2'>
+          <div className='box2b1'></div>
+          <div className='box2b2'></div>
           <img src={box2} alt="" className='imgbox2' />
           <p className='divp2'>MUTAL FUNDS</p>
 
@@ -59,6 +61,16 @@ function body() {
         
 
       </main>
+      <section className='who'>
+        <div>
+          <h3 className='sec-h1'>WHO WE ARE</h3>
+          <p className='sec-p'> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam libero sed iure numquam earum beatae fuga sint distinctio exercitationem ea error voluptate quae doloribus iste aut, accusamus illo nobis fugiat!</p>
+
+
+        </div>
+
+
+      </section>
 
 
 
