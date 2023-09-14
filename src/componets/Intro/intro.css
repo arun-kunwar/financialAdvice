@@ -221,7 +221,47 @@
   height: 500px;
   background-color: white;
   display: flex;
+  
+}
+.sec-bg{
+    background-image: url(./images/bg-section.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius:8px ;
+    height: 270px;
+    width: 400px; 
+    margin-top: 100px; 
+    margin-left: 100px; 
+   
+   
 }
 .sec-h1{
+    padding-top: 130px;
+    padding-left: 40px;
 
+}
+.sec-p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 40px;
+}
+div span {
+    color:#0c4c7c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sec-button{
+    background-color: #0c4c7c;
+    margin-left: 10px;
+    height: 25px;
+    color: #eeeee4;
+    border: none;
+    font-size: x-small;
+    width: 100px;
+    margin-left: 40px;
+
+    
+}
+section.sec-button:active{
+    scale: 09sec;
+    
+    color: black;
 }

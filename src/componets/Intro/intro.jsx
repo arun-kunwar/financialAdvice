@@ -62,12 +62,19 @@ function body() {
 
       </main>
       <section className='who'>
+        <div className='sec-bg'></div>
         <div>
-          <h3 className='sec-h1'>WHO WE ARE</h3>
-          <p className='sec-p'> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam libero sed iure numquam earum beatae fuga sint distinctio exercitationem ea error voluptate quae doloribus iste aut, accusamus illo nobis fugiat!</p>
+          <h3 className='sec-h1'>WHO WE ARE</h3> <br />
+          <p className='sec-p'> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam libero sed iure <br />  numquam earumbeatae fuga sint distinctio exercitationem ea error voluptatee <br />quae doloribus iste aut, accusamus illo nobis fugiat kdbd fnbj jkd kjvnk jnndkc <br /> ndnv lnvn nksn ndlsn lorem ipusm
+            <br /> <br /> <span>lorem odlre sit amet ipsam sws hom kdfa hgsvc jsavcj jab</span>
+          
+          </p>
+          <br />
+          <input type="button" value='READ MORE' className='sec-button' />
 
 
         </div>
+
 
 
       </section>
