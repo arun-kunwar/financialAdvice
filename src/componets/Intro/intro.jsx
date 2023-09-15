@@ -6,11 +6,13 @@ import box3 from './images/box3.png'
 import box4 from './images/box4.png'
 import box5 from './images/box5.png'
 
+// reset this
+
+
 function body() {
   return (
     <>
-      <section className='flex'  >
-        <div className='intro'> </div>
+      <main className='main'  >
         <div>
           <h1 className='h1'> We Provide Expert <br /> Financial Advice</h1>
           <p className='p'> We provides independent advice  based on establised reasearch methods <br /> and
@@ -18,49 +20,62 @@ function body() {
         </div>
         <div className='button'><input type="button" value='Get start now' className='submit' /></div>
 
-        <div className='box'></div>
-      </section>
+      </main>
 
-      <main className='body'>
-        <h3 className='h2'>WHAT WE OFFER</h3>
-        <p className='p2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, et! Consequatur nemo ullam officiis <br /> <p className='opp'>lorem sum dolor sit amet consectetur adipisicing elit Beatae .</p> </p>
-        <div className='box1'>
+      < section className='offer'>
+       <div className='offer-head'>
+         <h3 className='offer-heading'>WHAT WE OFFER</h3>
+        <p className='offer-para'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, et! Consequatur nemo ullam officiis lorem sum dolor sit amet consectetur adipisicing elit Beatae .</p> </div>
+          
+          <div className='container-offer'>
+
+            <div className='box box1'></div>
+            <div className='box box2'></div>
+            <div className='box box3'></div>
+            <div className='box box4'></div>
+            <div className='box box5'></div>
+            <div className='box box6'></div>
+
+
+
+          </div>
+
+        {/* <div className='main-box1'>
           <img src={box1}  className='imgbox1' />
           <p className='divp1'>FINANCIAL PLANNING</p>
-
         </div>
-        <div className='box2'>
-          <div className='box2b1'></div>
-          <div className='box2b2'></div>
+
+        <div className='main-box2'>
           <img src={box2} alt="" className='imgbox2' />
           <p className='divp2'>MUTAL FUNDS</p>
-
         </div>
-        <div className='box3'>
+
+        <div className='main-box3'>
           <img src={box3} alt="" className='imgbox3' />
           <p className='divp3'> SAVING & INVESMENT</p>
         </div>
-        <div className='box4'>
+
+        <div className='main-box4'>
           <img src={box4} alt="" className='imgbox4' />
           <p className='divp4' >INDUSTRAIL INSURANCE </p>
         </div>
-        <div className='box5'>
+
+        <div className='main-box5'>
           <img src={box5} alt="" className='imgbox5' />
           <p className='divp5'>SUPPORT</p>
         </div>
 
-        <div className='box6'>
+        <div className='main-box6'>
 
           <h5 className='h3'>INVESMENT PLANNING</h5>
           <p className='p3'>Lorem ipsum dolor sit amet dbbf bfkd  <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   adipisicing elit. </p>
+              adipisicing elit. </p>
           <input type="button" value="READ MORE" className="read" />
 
-        </div>
+        </div> */}
         
 
-      </main>
+      </section>
       <section className='who'>
         <div className='sec-bg'></div>
         <div>
@@ -74,7 +89,7 @@ function body() {
 
 
         </div>
-
+        <div c></div>
 
 
       </section>
