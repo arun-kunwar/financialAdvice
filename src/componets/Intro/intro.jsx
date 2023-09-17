@@ -71,17 +71,10 @@ function body() {
 
           </p>
           <input type="button" value='READ MORE' className='readmore' />
-          {/* <h3 >WHO WE ARE</h3> <br />
-          <p > Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam libero sed iure  numquam earumbeatae fuga sint distinctio exercitationem ea error voluptatee quae doloribus iste aut, accusamus illo nobis fugiat kdbd fnbj jkd kjvnk jnndkc  ndnv lnvn nksn ndlsn lorem ipusm
-             <span>lorem odlre sit amet ipsam sws hom kdfa hgsvc jsavcj jab</span>
-
-          </p>
          
-          
- */}
 
         </div>
-        <div c></div>
+        <div ></div>
 
 
       </section>
