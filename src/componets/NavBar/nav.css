@@ -7,7 +7,7 @@
     overflow: auto; 
     list-style-type: none;
 }
-li{ 
+.ul li{ 
     overflow: auto;
     float: left;
     padding: 25px;
