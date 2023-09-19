@@ -24,6 +24,7 @@ function projects() {
                       </ul>
           </nav>
           <section className='project-main'>
+              
               <div className='box box1'>
                   
                   <img src={box1} alt=""  className='img-box1'/>
@@ -42,10 +43,22 @@ function projects() {
               <div className='box box5'>
                   <img src={box5} alt="" className='img-box5'/>
               </div>
+         
               
               
 
           </section>
+          <section className='project-contacts'>
+              <div className='contacts-bg'>
+                  <h2>request a free consulatation</h2>
+                  <p>Lorem ipsum dolor sit amet amet ipsum consectetur adipisicing elit.</p>
+                  <input type="name" placeholder='NAME' className='project-name' />
+                  <input type="email"  placeholder='EMAIL' className='project-email' required />
+                  <input type="text" placeholder='NEED TO DISCUSS' className='project-text' />
+                  <input type="submit" value="SUBMIT" className='project-submit' />
+                  
+              </div>
+        </section>
               
 
       
