@@ -14,8 +14,8 @@ function body() {
     <>
       <main className='main'  >
         <div>
-          <h1 className='h1'> We Provide Expert <br /> Financial Advice</h1>
-          <p className='p'> We provides independent advice  based on establised reasearch methods <br /> and
+          <h1> We Provide Expert <br /> Financial Advice</h1>
+          <p > We provides independent advice  based on establised reasearch methods <br /> and
             our experts have in-depth sector knowledge</p>
         </div>
         <div className='button'><input type="button" value='Get start now' className='submit' /></div>
@@ -31,12 +31,12 @@ function body() {
 
           <div className='box box1'>
             <img src={box1} className='imgbox1' />
-            <p>FINANCIAL PLANNING</p>
+            <p className='box1-para'> FINANCIAL PLANNING</p>
           </div>
           <div className='box box2'>
             <div>
               <h5>INVESMENT PLANNING</h5>
-              <p>Lorem ipsum dolor sit amet dbbf
+              <p className='box2-para'> Lorem ipsum dolor sit amet dbbf
                 adipisicing elit. </p>
               <input type="button" value="READ MORE" className='readmore' />
             </div>
@@ -45,19 +45,19 @@ function body() {
           </div>
           <div className='box box3'>
             <img src={box3} alt="" className='imgbox3' />
-            <p> SAVING & INVESMENT</p>
+            <p className='box3-para' > SAVING & INVESMENT</p>
           </div>
           <div className='box box4'>
             <img src={box4} className='imgbox4' />
-            <p>MUTAL FUNDS</p>
+            <p className='box4-para'>MUTAL FUNDS</p>
           </div>
           <div className='box box5'>
             <img src={box5} alt="" className='imgbox5' />
-            <p>NDUSTRAIL INSURANCE</p>
+            <p className='box5-para'> NDUSTRAIL INSURANCE</p>
           </div>
           <div className='box box6'>
             <img src={box6} alt="" className='imgbox6' />
-            <p>SUPPORT</p>
+            <p className='box6-para'>SUPPORT</p>
           </div>
         </div>
       </section>

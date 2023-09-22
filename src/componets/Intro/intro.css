@@ -30,7 +30,7 @@
     z-index: -1;
 }
 
-.h1 {
+.main   h1{
     bottom: 53%;
     right: 730px;
     position: absolute;
@@ -41,7 +41,7 @@
 
 }
 
-.p {
+.main  p{
     bottom: 40%;
     right: 360px;
     position: absolute;
@@ -131,7 +131,7 @@
     height: 55px;
 }
 
-.box1 p {
+.box1 .box1-para {
     font-size: small;
     padding-left: 18px;
 }
@@ -141,7 +141,7 @@
     height: 70px;
 }
 
-.box3 p {
+.box3 .box3-para {
     font-size: small;
     padding-left: 50px;
 }
@@ -153,7 +153,7 @@
 
 }
 
-.box4 p {
+.box4 .box4-para {
     font-size: small;
     padding-left: 50px;
 }
@@ -163,7 +163,7 @@
     height: 55px;
 }
 
-.box5 p {
+.box5 .box2-para {
     font-size: small;
     padding-left: 25px;
 }
@@ -173,7 +173,7 @@
     height: 55px;
 }
 
-.box6 p {
+.box6 .box6-para {
     font-size: small;
     padding-left: 81px;
 }
@@ -192,7 +192,7 @@
     padding-top: 25px;
 }
 
-.box2 p {
+.box2 .box2-para {
     text-align: center;
     font-size: small;
     padding: 0 2px 0 2px;

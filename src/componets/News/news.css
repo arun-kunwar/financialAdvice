@@ -28,5 +28,37 @@
 }
 .box1 .box1-para1{
     color: aliceblue;
-    padding: 1px 0 0 0git ;
+    padding: 4px 0 0 24px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.box1 .box1-para2{
+    color: aliceblue;
+        padding: 4px 0 0 24px;
+        font-size: 10px;
+        font-family: sans-serif;
+
+}
+.box a {
+    color: orange;
+}
+.box2 .box2-heading {
+    padding: 20px 0 0 50px;
+    color: rgb(255, 181, 45);
+
+}
+
+.box2 .box2-para1 {
+    color: aliceblue;
+    padding: 4px 0 0 24px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.box2 .box2-para2 {
+    color: aliceblue;
+    padding: 4px 0 0 24px;
+    font-size: 10px;
+    font-family: sans-serif;
+
 }

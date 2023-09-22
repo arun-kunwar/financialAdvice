@@ -38,8 +38,8 @@ function team() {
       <section className='info'>
           
           <div className='info-head'>
-              <div className='box'>
-                  <h3>what client say</h3>
+              <div className='info-box'>
+                  <h3 >what client say</h3>
                   <p>
                       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam voluptatem deleniti praesentium ullam nemo, illo ratione numquam natus accusantium, aliquid delectus! Fuga odio voluptatum voluptas fugit labore corporis autem facere.
                   </p>

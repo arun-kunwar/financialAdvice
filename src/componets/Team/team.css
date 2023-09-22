@@ -101,20 +101,20 @@
     justify-content: center;
 }
 
-.info-head .box {
+.info-head .info-box {
     height: 236px;
     width: 65%;
     background-color: aliceblue;
     margin: 66px 0 0 0;
 }
 
-.box h3 {
+.info-box h3 {
     text-align: center;
     text-transform: uppercase;
     font-family: sans-serif;
     padding-top: 23px;
 }
-.box p {
+.info-box p {
     padding: 15px 0 0 0;
     font-size: small;
     text-align: center;
